@@ -1,0 +1,40 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [CIR_LED_SEQ.PrjPcb]
+   Generated File[CIR_LED_SEQ.GTO]
+   Generated File[CIR_LED_SEQ.GTP]
+   Generated File[CIR_LED_SEQ.GTS]
+   Generated File[CIR_LED_SEQ.GTL]
+   Generated File[CIR_LED_SEQ.GBL]
+   Generated File[CIR_LED_SEQ.GBS]
+   Generated File[CIR_LED_SEQ.GBP]
+   Generated File[CIR_LED_SEQ.GBO]
+   Generated File[CIR_LED_SEQ.GM1]
+   Generated File[CIR_LED_SEQ.GM2]
+   Generated File[CIR_LED_SEQ.GM3]
+   Generated File[CIR_LED_SEQ.GM4]
+   Generated File[CIR_LED_SEQ.GM5]
+   Generated File[CIR_LED_SEQ.GM6]
+   Generated File[CIR_LED_SEQ.GM7]
+   Generated File[CIR_LED_SEQ.GM11]
+   Generated File[CIR_LED_SEQ.GM12]
+   Generated File[CIR_LED_SEQ.GM13]
+   Generated File[CIR_LED_SEQ.GM14]
+   Generated File[CIR_LED_SEQ.GM15]
+   Generated File[CIR_LED_SEQ.GM16]
+   Generated File[CIR_LED_SEQ.GM20]
+   Generated File[CIR_LED_SEQ.GM24]
+   Generated File[CIR_LED_SEQ.GKO]
+   Generated File[CIR_LED_SEQ.1]
+   Generated File[CIR_LED_SEQ.GML]
+   Generated File[CIR_LED_SEQ.GD1]
+   Generated File[CIR_LED_SEQ.GG1]
+   Generated File[CIR_LED_SEQ.GM]
+   Generated File[CIR_LED_SEQ.EXTREP]
+   Generated File[CIR_LED_SEQ.REP]
+
+
+Files Generated   : 31
+Documents Printed : 0
+
+Finished Output Generation At 04:57:52 PM On 07-Jun-26

@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\PCB_DESIGNED\CIR_LED_SEQ\Project Outputs for CIR_LED_SEQ\Pick Place\Pick Place for CIR_LED_SEQ.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07-06-26
+Time:       16:50
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment            Description                                                                                       Designator Footprint              Layer       Rotation 
+530.000       -27.500       M20-9990245        "CONN HEADER VERT 2POS 2.54MM"                                                                    J1         FP-M20-9990245-MFG     BottomLayer 270      
+-35.000       387.500       NE555DR            "IC OSC SGL TIMER 100KHZ 8-SOIC"                                                                  U2         FP-D0008A-IPC_A        BottomLayer 180      
+-30.000       37.500        CD4017BM           "CMOS Decade Counter with 10 Decoded Outputs, D0016A, TUBE"                                       U1         D0016A_N               BottomLayer 270      
+-430.000      -212.500      RC0805FR-071KL     "Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" R13        RESC2013X60X35ML10T20  BottomLayer 180      
+-430.000      -97.500       RC0805FR-071KL     "Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" R12        RESC2013X60X35ML10T20  BottomLayer 180      
+-430.000      22.500        RC0805FR-071KL     "Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" R11        RESC2013X60X35ML10T20  BottomLayer 180      
+-30.000       -336.909      50k                "TRIMMER 100K OHM 0.5W PC PIN TOP"                                                                R10        FP-3386P-MFG           BottomLayer 0        
+-430.000      147.500       RC0805FR-071KL     "Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" R9         RESC2013X60X35ML10T20  BottomLayer 180      
+-430.000      277.500       RC0805FR-071KL     "Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" R8         RESC2013X60X35ML10T20  BottomLayer 180      
+290.000       -432.500      10k                "Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" R7         RESC2013X60X35ML10T20  BottomLayer 0        
+275.000       302.500       RC0805FR-071KL     "Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" R6         RESC2013X60X35ML10T20  BottomLayer 0        
+275.000       177.500       RC0805FR-071KL     "Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" R5         RESC2013X60X35ML10T20  BottomLayer 0        
+250.000       447.500       2k2                "Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" R4         RESC2013X60X35ML10T20  BottomLayer 0        
+285.000       -167.500      RC0805FR-071KL     "Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" R3         RESC2013X60X35ML10T20  BottomLayer 0        
+290.000       -302.500      RC0805FR-071KL     "Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" R2         RESC2013X60X35ML10T20  BottomLayer 0        
+-430.000      -342.500      RC0805FR-071KL     "Chip Resistor, 1 KOhm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel" R1         RESC2013X60X35ML10T20  BottomLayer 180      
+-470.000      -647.500      HLMP-1719          "LED YELLOW DIFFUSED T-1 T/H"                                                                     D10        FP-HLMP-1719-MFG       TopLayer    180      
+-750.000      -307.500      HLMP-1719          "LED YELLOW DIFFUSED T-1 T/H"                                                                     D9         FP-HLMP-1719-MFG       TopLayer    180      
+-775.000      137.500       HLMP-1719          "LED YELLOW DIFFUSED T-1 T/H"                                                                     D8         FP-HLMP-1719-MFG       TopLayer    180      
+-505.000      567.500       HLMP-1719          "LED YELLOW DIFFUSED T-1 T/H"                                                                     D7         FP-HLMP-1719-MFG       TopLayer    180      
+-55.000       707.500       HLMP-1719          "LED YELLOW DIFFUSED T-1 T/H"                                                                     D6         FP-HLMP-1719-MFG       TopLayer    180      
+410.000       562.500       HLMP-1719          "LED YELLOW DIFFUSED T-1 T/H"                                                                     D5         FP-HLMP-1719-MFG       TopLayer    180      
+685.000       162.500       HLMP-1719          "LED YELLOW DIFFUSED T-1 T/H"                                                                     D4         FP-HLMP-1719-MFG       TopLayer    180      
+675.000       -267.500      HLMP-1719          "LED YELLOW DIFFUSED T-1 T/H"                                                                     D3         FP-HLMP-1719-MFG       TopLayer    180      
+425.000       -617.500      HLMP-1719          "LED YELLOW DIFFUSED T-1 T/H"                                                                     D2         FP-HLMP-1719-MFG       TopLayer    180      
+-40.000       -782.500      HLMP-1719          "LED YELLOW DIFFUSED T-1 T/H"                                                                     D1         FP-HLMP-1719-MFG       TopLayer    180      
+-280.000      -392.500      GRM21BR71H105KA12L ""                                                                                                C2         CAPC2013X135X45LL10T25 BottomLayer 90       
+420.000       12.500        1uf                ""                                                                                                C1         CAPC2013X135X45LL10T25 BottomLayer 90       
